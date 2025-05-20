@@ -42,7 +42,7 @@ Built using TensorFlow & Keras:
 - Adam Optimizer
 
 ### Performance:
-- Achieved high accuracy on test set (mention actual % if available)
+- Achieved 84% accuracy on the test 
 
 ---
 
